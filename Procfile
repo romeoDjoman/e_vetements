@@ -1,1 +1,1 @@
-doctrine:schema:update --force
+postdeploy: doctrine:schema:update --force
