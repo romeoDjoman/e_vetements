@@ -12,9 +12,9 @@ Fonctionnalités
 5. Affichage mode Admin
 6. Affichage mode utilisateur
 
-Connexion administrateur: 
-Email : `admin@mail.com`
-Mot de passe : `Admin!1234`
+Connexion administrateur:   
+Email : `admin@mail.com`  
+Mot de passe : `Admin!1234`  
 ----------------------------
 
 Technologies : 
