@@ -9,10 +9,9 @@ Fonctionnalités
 2. Connexion
 3. Déconnexion
 4. Panier 
-5. Affichage mode Admin
-6. Affichage mode utilisateur
+5. Gestion en mode Admin
 
-Connexion administrateur:   
+Accès administrateur:   
 Email : `admin@mail.com`  
 Mot de passe : `Admin!1234`  
 ----------------------------
