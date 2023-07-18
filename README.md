@@ -8,8 +8,9 @@ Fonctionnalités
 1. Inscription
 2. Connexion
 3. Déconnexion
+4. Achats
 4. Panier 
-5. Gestion en mode Admin
+5. Gestionnaire mode Admin
 
 Accès administrateur:   
 Email : `admin@mail.com`  
