@@ -18,4 +18,4 @@ Mot de passe : `Admin!1234`
 ----------------------------
 
 Technologies : 
-`` `` `` `` ``
+`PHP` `POO` `Symfony` `Bootstrap` `CSS`
