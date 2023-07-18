@@ -2,7 +2,7 @@ TP SYMFONY - E-COMMERCE
 Vente de vêtements en ligne 
 
 ----------------------------
-URL : [Accéder à l'application](https://symfonyapp.osc-fr1.scalingo.io/)
+URL : [Accéder à e-vetement.com](https://symfonyapp.osc-fr1.scalingo.io/)
 
 Fonctionnalités 
 1. Inscription
